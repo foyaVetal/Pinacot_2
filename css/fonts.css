@@ -1,0 +1,32 @@
+/* font-family: "AmaranthBold"; */
+@font-face {
+	font-family: "AmaranthBold";
+	src: url("../fonts/Amaranth/Amaranth-Bold.eot");
+	src: url("../fonts/Amaranth/Amaranth-Bold.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/Amaranth/Amaranth-Bold.woff") format("woff"),
+	url("../fonts/Amaranth/Amaranth-Bold.otf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+/* font-family: "pt-sans"; */
+@font-face {
+	font-family: "pt-sans";
+	src: url("../fonts/pt-sans/PTC75F.eot");
+	src: url("../fonts/pt-sans/PTC75F.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/pt-sans/PTC75F.woff") format("woff"),
+	url("../fonts/pt-sans/PTC75F.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "pt-sans2"; */
+@font-face {
+	font-family: "pt-sans2";
+	src: url("../fonts/pt-sans/PTC55F.eot");
+	src: url("../fonts/pt-sans/PTC55F.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/pt-sans/PTC55F.woff") format("woff"),
+	url("../fonts/pt-sans/PTC55F.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
